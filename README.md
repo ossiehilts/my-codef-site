@@ -4,7 +4,7 @@ A responsive, personal blog template, built with Astro and Tailwind CSS.
 
 
 
-## Features
+## Featuressss
 
 - A blog
 - Dark mode and light mode with daisyUI
