@@ -2,4 +2,4 @@
 
 ## Heading 2
 
-welcome to my websiteee
+welcome to my website
